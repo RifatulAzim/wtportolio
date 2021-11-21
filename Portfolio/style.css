@@ -1,0 +1,14 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: beige;
+}
+.navbar.menu{
+    color: black;
+}
+.logo{
+    color:brown;
+    font-size: 30px;
+    font-weight: 500;
+}
+
